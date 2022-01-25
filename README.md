@@ -1,6 +1,8 @@
 # wct
 The Washington Coding Team
 
+Meetings Tuesdays 1:15 
+
 Joey Dronkers: 503-926-2312; dronkers@bc.edu
 
 Roland Afzelius: 516-413-1930; Afzelius@bc.ed
